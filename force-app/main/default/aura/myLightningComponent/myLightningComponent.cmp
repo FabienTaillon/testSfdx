@@ -1,0 +1,8 @@
+<aura:component >
+    <div class="slds-align_absolute-center" style="height:100vh">
+        <div class="slds-align_absolute-center">
+            <div class="slds-text-heading_large">It's alive !</div>
+            <lightning:icon iconName="action:approval" alternativeText="Approved" class="slds-m-left_x-small"/>
+        </div>
+    </div>
+</aura:component>
